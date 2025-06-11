@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+# Python
+__pycache__/
+# Jupyter Notebook
+.ipynb_checkpoints/
+# VSCode / PyCharm
+.idea/
+# virtual env
+.venv/
+# OS generated
+.DS_Store
+Thumbs.db
+datasets/
+bert_star_rating/
+bert_star_rating_model/
+
+*.csv
